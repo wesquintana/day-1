@@ -1,0 +1,18 @@
+/*
+tag
+.class
+#id
+*/
+.text-red {
+  color: red;
+  background-color: blue;
+}
+h1.text-red {
+  display: inline;
+  font-size: 15em;
+  margin: 0;
+}
+#second {
+  color: black;
+  background-color: unset;
+}

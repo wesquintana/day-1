@@ -3,9 +3,8 @@ tag
 .class
 #id
 */
-.text-red {
-  color: red;
-  background-color: blue;
+h4 {
+  color: yellow;
 }
 h1.text-red {
   display: inline;

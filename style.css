@@ -6,12 +6,16 @@ tag
 h4 {
   color: yellow;
 }
-h1.text-red {
+.text-red {
   display: inline;
-  font-size: 15em;
+  font-size: 2em;
   margin: 0;
 }
 #second {
   color: black;
   background-color: unset;
+}
+#list {
+  display: contents;
+  font-family: "Playfair Display", monospace;
 }
